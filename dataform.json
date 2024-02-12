@@ -3,5 +3,5 @@
     "assertionSchema": "dataform_assertions",
     "warehouse": "bigquery",
     "defaultDatabase": "data-evolution-harry",
-    "defaultLocation": "us-central1"   
-}
+    "defaultLocation": "US"
+  }  
